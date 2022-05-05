@@ -1,3 +1,8 @@
+To see the code running, clone it and then run the following
+npm run dev
+
+Then browse to http://localhost:3000/comments and click the buttons to see the API that has been created being called
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
